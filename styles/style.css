@@ -66,3 +66,9 @@ ul {
     position: absolute;
     top: 0px;
 }
+body {
+    overflow: hidden;
+}
+#tools {
+    overflow: hidden;
+}
