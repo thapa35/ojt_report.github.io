@@ -67,8 +67,8 @@ ul {
     top: 0px;
 }
 body {
-    overflow: hidden;
+    overflow: scroll;
 }
 #tools {
-    overflow: hidden;
+    overflow: scroll;
 }
